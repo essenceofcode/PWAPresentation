@@ -1,0 +1,23 @@
+{
+    "short_name": "TriNUG",
+    "name": "TriNUG",
+    "description": "TriNUG Member Manager",
+    "start_url": "/#",
+    "scope": "/",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "/images/trinug192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/images/trinug512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "theme_color": "#db5945",
+    "background_color": "#db5945"
+  }
+  

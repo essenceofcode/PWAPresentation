@@ -1,6 +1,6 @@
 # Presentation: Introduction to Progressive Web Applications
 
-This repository contains the reveal.js slides and sample application for a presentation I recently gave at a local user group on Progressive Web Apps.  Please note that the contents of the repository are simply the personal opinions and thoughts of the author and are not offered as any kind guidance or advice.  The presentation and supporting material are the authors personal opinions and in no way represent his employer's view.  Please feel free to use the artifacts in this repository in accordance with the [MIT License](blob/master/LICENSE.MD)   
+This repository contains the reveal.js slides and sample application for a presentation I recently gave at a local user group on Progressive Web Apps.  Please note that the contents of the repository are simply the personal opinions and thoughts of the author and are not offered as any kind guidance or advice.  The presentation and supporting material are the authors personal opinions and in no way represent his employer's view.  Please feel free to use the artifacts in this repository in accordance with the [MIT License](LICENSE)   
 
 I am really excited about the future of PWA technology and the advantages it will bring to both users and developers.  However, I am **not** an expert on Progressive Web Applications.  My main goal in preparing this presentation was as a means to learn more about these technologies and to share that knowledge with other local developers.  I hope it has inspired others to learn more about them!
 
@@ -48,7 +48,7 @@ https://developers.google.com/web/tools/lighthouse/
 
 During this demonstration we use an **extremely** basic application to demonstrate the creation of a progressive web application.  This application consists of only one html page (index) and enough artifacts to support a service worker and a manifest.  It has no framework or server side behavior and is **not** a fully functional application.  This was done intentionally to allow us to focus on the basic technologies that are used to create a functioning PWA.
 
-The sample application can be found in the [sampleApp](blob/master/sampleApp) folder of this repository.
+The sample application can be found in the [sampleApp](sampleApp) folder of this repository.
 
 To set up and run:
 
